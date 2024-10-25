@@ -1,5 +1,5 @@
 const lampada = document.getElementById("lampada");
-//estamos guardando na variavel lampada uma tag
+//estamos guardando na variavel lampada em uma tag
 // document acessa a tag ID
 console.log(lampada);
 
